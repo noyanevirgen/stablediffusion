@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stablediffusion/static/css/main.073c9b0a.css",
+    "main.js": "/stablediffusion/static/js/main.28d0d79d.js",
+    "static/js/787.cda612ba.chunk.js": "/stablediffusion/static/js/787.cda612ba.chunk.js",
+    "index.html": "/stablediffusion/index.html",
+    "main.073c9b0a.css.map": "/stablediffusion/static/css/main.073c9b0a.css.map",
+    "main.28d0d79d.js.map": "/stablediffusion/static/js/main.28d0d79d.js.map",
+    "787.cda612ba.chunk.js.map": "/stablediffusion/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.28d0d79d.js"
+  ]
+}
